@@ -12,7 +12,7 @@ Sou o Gabriel Tenho 16 anos, e estou cursando desenvolvimento de sistemas no Sen
 </div>
  
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
