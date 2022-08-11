@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sou o Gabriel Tenho 16 anos, e estou cursando desenvolvimento de sistemas no Senai em Florianópolis
+
 
 **GabrielCarvalhouo/GabrielCarvalhouo**
 
@@ -19,4 +21,4 @@
   <img align="center" alt="gabriel-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="gabriel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
-  ##
+  
