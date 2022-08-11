@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-**GabrielCarvalhouo/GabrielCarvalhouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GabrielCarvalhouo/GabrielCarvalhouo**
+
 <div align="center">
   <a href="https://github.com/GabrielCarvalhouo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarvalhouo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
