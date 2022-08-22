@@ -1,6 +1,6 @@
 ### Hi DEVS 👋
 
-Sou o Gabriel Tenho 16 anos, e estou cursando desenvolvimento de sistemas no Senai em Florianópolis
+Sou o Gabriel Tenho 16 anos, e estou cursando desenvolvimento de sistemas no Senai em Florianópolis atualmente na segunda fase.
 
 
 **GabrielCarvalhouo/GabrielCarvalhouo**
