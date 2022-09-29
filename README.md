@@ -6,7 +6,7 @@ Sou o Gabriel Tenho 17 anos, e estou cursando desenvolvimento de sistemas no Sen
 **GabrielCarvalhouo/GabrielCarvalhouo**
 
 <div align="center">
-  <a href="https://github.com/GabrielCarvalhouo.git">
+  <a href="https://github.com/GabrielCarvalhouo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarvalhouo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarvalhouo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
