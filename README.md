@@ -1,3 +1,3 @@
 ### Hi DEVS 👋
 
-Sou o Gabriel Tenho 17 anos, e estou cursando desenvolvimento de sistemas no Senai em Florianópolis atualmente na quarta fase, onde vamos iniciar os estudos em java orientado a objetos para desenvolver um sistema full-stack.
+I am Gabriel, 18 years old, and I am a graduate in systems development from Senai Florianópolis. In my last experience, we created a project in Java with Spring, React JS, and TypeScript. We developed a full-stack movie rating system called "Opinions." Even after completing the course, we continue to enhance it, releasing updates whenever possible, as we have developed a special attachment to the project.
